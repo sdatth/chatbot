@@ -1,5 +1,7 @@
 This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT.
 
+![machfiles image](./ss.png)
+
 ## Dependencies
 ### Backend
 * [OpenAI](https://openai.com/)
